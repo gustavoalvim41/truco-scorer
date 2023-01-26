@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Container, Background, Row } from './styles';
+import { Container, Background } from './styles';
+import Row from '../../components/Row';
 import Paragraph from '../../components/Paragraph';
 import Counter from '../../components/Counter';
 import Button from '../../components/Button';
