@@ -8,12 +8,6 @@
 
 Esse projeto é uma aplicação para marcar os tentos e se divertir com os amigos na hora do truco.
 
-## 🎨 Design
-
-Totalmente pensado para ser simples e intuitivo tornando a experiência do usuário mais suave e agradável. 
-
-O design foi criado no <a href="https://www.figma.com/file/dBj9fbyGB6u2UtrK3Vy4q9/Marcador-de-Truco?t=uUIZ0FzEG0QD5JFg-0">Figma</a>. 
-
 ## 🚀 Tecnologias Utilizadas
 
 - Expo
